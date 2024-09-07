@@ -14,11 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-          this site is served by droplet on digitalocean
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
+            this site is served by droplet on digitalocean
           </li>
           <li>Just want to try droplet and open a server on it</li>
         </ol>
